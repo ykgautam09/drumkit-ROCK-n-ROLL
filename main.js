@@ -44,7 +44,7 @@ function sound(input){
                 break;
 
         case 'l':
-                var kick=new Audio('sounds/kick.mp3')
+                var kick=new Audio('sounds/kick-bass.mp3')
                 kick.play();
                 break;
         
